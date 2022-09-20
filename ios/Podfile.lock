@@ -1,0 +1,29 @@
+PODS:
+  - Flutter (1.0.0)
+  - flutter_ijkplayer (0.0.1):
+    - Flutter
+    - FlutterIJK (~> 0.0.9)
+  - FlutterIJK (0.0.9)
+
+DEPENDENCIES:
+  - Flutter (from `.symlinks/flutter/ios`)
+  - flutter_ijkplayer (from `.symlinks/plugins/flutter_ijkplayer/ios`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FlutterIJK
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+  flutter_ijkplayer:
+    :path: ".symlinks/plugins/flutter_ijkplayer/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 58dd7d1b27887414a370fcccb9e645c08ffd7a6a
+  flutter_ijkplayer: c3a5d569dde01d23b33bf0cfc685a256a10e56ce
+  FlutterIJK: 9e3ccb3d74cca7ebe77db65d30a19b630ea8648e
+
+PODFILE CHECKSUM: 7fb83752f59ead6285236625b82473f90b1cb932
+
+COCOAPODS: 1.7.5
